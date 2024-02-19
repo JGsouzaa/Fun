@@ -31,7 +31,7 @@ BLUE2 = (0, 100, 255)
 BLACK = (0, 0, 0)
 
 BLOCK_SIZE = 20
-SPEED = 1000
+SPEED = 10000
 
 class SnakeGame:
 
@@ -78,14 +78,18 @@ class SnakeGame:
         reward = 0
         game_over = False
 
-        if self.is_collision() or self.frame_iteration > 100*len(self.snake):
+        if self.is_collision():
+            game_over = True
+            reward = -3
+            return reward, game_over, self.score
+        if self.frame_iteration > 100*len(self.snake):
             game_over = True
             reward = -10
             return reward, game_over, self.score
         #4 - Place new food or finalize move
         if self.snakehead == self.food:
             self.score += 1
-            reward = 10
+            reward = 1
             self._place_food()
         else:
             self.snake.pop()
