@@ -1,0 +1,118 @@
+﻿  Cryptobp.cpp
+cryptlib.lib(cryptlib.obj) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '0' não corresponde ao valor '2' no Cryptobp.obj
+cryptlib.lib(cryptlib.obj) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MT_StaticRelease' não corresponde ao valor 'MTd_StaticDebug' no Cryptobp.obj
+cryptlib.lib(allocate.obj) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '0' não corresponde ao valor '2' no Cryptobp.obj
+cryptlib.lib(allocate.obj) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MT_StaticRelease' não corresponde ao valor 'MTd_StaticDebug' no Cryptobp.obj
+cryptlib.lib(filters.obj) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '0' não corresponde ao valor '2' no Cryptobp.obj
+cryptlib.lib(filters.obj) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MT_StaticRelease' não corresponde ao valor 'MTd_StaticDebug' no Cryptobp.obj
+cryptlib.lib(iterhash.obj) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '0' não corresponde ao valor '2' no Cryptobp.obj
+cryptlib.lib(iterhash.obj) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MT_StaticRelease' não corresponde ao valor 'MTd_StaticDebug' no Cryptobp.obj
+cryptlib.lib(sha.obj) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '0' não corresponde ao valor '2' no Cryptobp.obj
+cryptlib.lib(sha.obj) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MT_StaticRelease' não corresponde ao valor 'MTd_StaticDebug' no Cryptobp.obj
+cryptlib.lib(integer.obj) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '0' não corresponde ao valor '2' no Cryptobp.obj
+cryptlib.lib(integer.obj) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MT_StaticRelease' não corresponde ao valor 'MTd_StaticDebug' no Cryptobp.obj
+cryptlib.lib(algparam.obj) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '0' não corresponde ao valor '2' no Cryptobp.obj
+cryptlib.lib(algparam.obj) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MT_StaticRelease' não corresponde ao valor 'MTd_StaticDebug' no Cryptobp.obj
+cryptlib.lib(basecode.obj) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '0' não corresponde ao valor '2' no Cryptobp.obj
+cryptlib.lib(basecode.obj) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MT_StaticRelease' não corresponde ao valor 'MTd_StaticDebug' no Cryptobp.obj
+cryptlib.lib(hex.obj) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '0' não corresponde ao valor '2' no Cryptobp.obj
+cryptlib.lib(hex.obj) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MT_StaticRelease' não corresponde ao valor 'MTd_StaticDebug' no Cryptobp.obj
+cryptlib.lib(misc.obj) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '0' não corresponde ao valor '2' no Cryptobp.obj
+cryptlib.lib(misc.obj) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MT_StaticRelease' não corresponde ao valor 'MTd_StaticDebug' no Cryptobp.obj
+cryptlib.lib(queue.obj) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '0' não corresponde ao valor '2' no Cryptobp.obj
+cryptlib.lib(queue.obj) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MT_StaticRelease' não corresponde ao valor 'MTd_StaticDebug' no Cryptobp.obj
+cryptlib.lib(fips140.obj) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '0' não corresponde ao valor '2' no Cryptobp.obj
+cryptlib.lib(fips140.obj) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MT_StaticRelease' não corresponde ao valor 'MTd_StaticDebug' no Cryptobp.obj
+cryptlib.lib(pch.obj) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '0' não corresponde ao valor '2' no Cryptobp.obj
+cryptlib.lib(pch.obj) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MT_StaticRelease' não corresponde ao valor 'MTd_StaticDebug' no Cryptobp.obj
+cryptlib.lib(mqueue.obj) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '0' não corresponde ao valor '2' no Cryptobp.obj
+cryptlib.lib(mqueue.obj) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MT_StaticRelease' não corresponde ao valor 'MTd_StaticDebug' no Cryptobp.obj
+cryptlib.lib(cpu.obj) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '0' não corresponde ao valor '2' no Cryptobp.obj
+cryptlib.lib(cpu.obj) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MT_StaticRelease' não corresponde ao valor 'MTd_StaticDebug' no Cryptobp.obj
+cryptlib.lib(sha_simd.obj) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '0' não corresponde ao valor '2' no Cryptobp.obj
+cryptlib.lib(sha_simd.obj) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MT_StaticRelease' não corresponde ao valor 'MTd_StaticDebug' no Cryptobp.obj
+cryptlib.lib(dll.obj) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '0' não corresponde ao valor '2' no Cryptobp.obj
+cryptlib.lib(dll.obj) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MT_StaticRelease' não corresponde ao valor 'MTd_StaticDebug' no Cryptobp.obj
+cryptlib.lib(nbtheory.obj) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '0' não corresponde ao valor '2' no Cryptobp.obj
+cryptlib.lib(nbtheory.obj) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MT_StaticRelease' não corresponde ao valor 'MTd_StaticDebug' no Cryptobp.obj
+cryptlib.lib(asn.obj) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '0' não corresponde ao valor '2' no Cryptobp.obj
+cryptlib.lib(asn.obj) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MT_StaticRelease' não corresponde ao valor 'MTd_StaticDebug' no Cryptobp.obj
+cryptlib.lib(pubkey.obj) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '0' não corresponde ao valor '2' no Cryptobp.obj
+cryptlib.lib(pubkey.obj) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MT_StaticRelease' não corresponde ao valor 'MTd_StaticDebug' no Cryptobp.obj
+cryptlib.lib(sse_simd.obj) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '0' não corresponde ao valor '2' no Cryptobp.obj
+cryptlib.lib(sse_simd.obj) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MT_StaticRelease' não corresponde ao valor 'MTd_StaticDebug' no Cryptobp.obj
+cryptlib.lib(rijndael.obj) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '0' não corresponde ao valor '2' no Cryptobp.obj
+cryptlib.lib(rijndael.obj) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MT_StaticRelease' não corresponde ao valor 'MTd_StaticDebug' no Cryptobp.obj
+cryptlib.lib(modes.obj) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '0' não corresponde ao valor '2' no Cryptobp.obj
+cryptlib.lib(modes.obj) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MT_StaticRelease' não corresponde ao valor 'MTd_StaticDebug' no Cryptobp.obj
+cryptlib.lib(gfpcrypt.obj) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '0' não corresponde ao valor '2' no Cryptobp.obj
+cryptlib.lib(gfpcrypt.obj) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MT_StaticRelease' não corresponde ao valor 'MTd_StaticDebug' no Cryptobp.obj
+cryptlib.lib(hmac.obj) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '0' não corresponde ao valor '2' no Cryptobp.obj
+cryptlib.lib(hmac.obj) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MT_StaticRelease' não corresponde ao valor 'MTd_StaticDebug' no Cryptobp.obj
+cryptlib.lib(gf2n.obj) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '0' não corresponde ao valor '2' no Cryptobp.obj
+cryptlib.lib(gf2n.obj) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MT_StaticRelease' não corresponde ao valor 'MTd_StaticDebug' no Cryptobp.obj
+cryptlib.lib(ec2n.obj) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '0' não corresponde ao valor '2' no Cryptobp.obj
+cryptlib.lib(ec2n.obj) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MT_StaticRelease' não corresponde ao valor 'MTd_StaticDebug' no Cryptobp.obj
+cryptlib.lib(ecp.obj) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '0' não corresponde ao valor '2' no Cryptobp.obj
+cryptlib.lib(ecp.obj) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MT_StaticRelease' não corresponde ao valor 'MTd_StaticDebug' no Cryptobp.obj
+cryptlib.lib(rng.obj) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '0' não corresponde ao valor '2' no Cryptobp.obj
+cryptlib.lib(rng.obj) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MT_StaticRelease' não corresponde ao valor 'MTd_StaticDebug' no Cryptobp.obj
+cryptlib.lib(osrng.obj) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '0' não corresponde ao valor '2' no Cryptobp.obj
+cryptlib.lib(osrng.obj) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MT_StaticRelease' não corresponde ao valor 'MTd_StaticDebug' no Cryptobp.obj
+cryptlib.lib(primetab.obj) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '0' não corresponde ao valor '2' no Cryptobp.obj
+cryptlib.lib(primetab.obj) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MT_StaticRelease' não corresponde ao valor 'MTd_StaticDebug' no Cryptobp.obj
+cryptlib.lib(rijndael_simd.obj) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '0' não corresponde ao valor '2' no Cryptobp.obj
+cryptlib.lib(rijndael_simd.obj) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MT_StaticRelease' não corresponde ao valor 'MTd_StaticDebug' no Cryptobp.obj
+cryptlib.lib(rdtables.obj) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '0' não corresponde ao valor '2' no Cryptobp.obj
+cryptlib.lib(rdtables.obj) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MT_StaticRelease' não corresponde ao valor 'MTd_StaticDebug' no Cryptobp.obj
+cryptlib.lib(randpool.obj) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '0' não corresponde ao valor '2' no Cryptobp.obj
+cryptlib.lib(randpool.obj) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MT_StaticRelease' não corresponde ao valor 'MTd_StaticDebug' no Cryptobp.obj
+cryptlib.lib(gf2n_simd.obj) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '0' não corresponde ao valor '2' no Cryptobp.obj
+cryptlib.lib(gf2n_simd.obj) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MT_StaticRelease' não corresponde ao valor 'MTd_StaticDebug' no Cryptobp.obj
+cryptlib.lib(hrtimer.obj) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '0' não corresponde ao valor '2' no Cryptobp.obj
+cryptlib.lib(hrtimer.obj) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MT_StaticRelease' não corresponde ao valor 'MTd_StaticDebug' no Cryptobp.obj
+libcpmtd.lib(wlocale.obj) : error LNK2001: símbolo externo não resolvido _calloc_dbg
+libcpmtd.lib(xlocale.obj) : error LNK2001: símbolo externo não resolvido _calloc_dbg
+Cryptobp.obj : error LNK2001: símbolo externo não resolvido _calloc_dbg
+libcpmtd.lib(_tolower.obj) : error LNK2001: símbolo externo não resolvido _calloc_dbg
+libcpmtd.lib(mutex.obj) : error LNK2001: símbolo externo não resolvido _calloc_dbg
+libcpmtd.lib(locale.obj) : error LNK2001: símbolo externo não resolvido _calloc_dbg
+libcpmtd.lib(wlocale.obj) : error LNK2019: símbolo externo não resolvido, _free_dbg, referenciado na função "public: __cdecl std::ctype<char>::ctype<char>(class std::_Locinfo const &,unsigned __int64)" (??0?$ctype@D@std@@QEAA@AEBV_Locinfo@1@_K@Z)
+libcpmtd.lib(xlocale.obj) : error LNK2001: símbolo externo não resolvido _free_dbg
+libcpmtd.lib(xwcsxfrm.obj) : error LNK2001: símbolo externo não resolvido _free_dbg
+libcpmtd.lib(StlCompareStringA.obj) : error LNK2001: símbolo externo não resolvido _free_dbg
+libcpmtd.lib(cerr.obj) : error LNK2001: símbolo externo não resolvido _free_dbg
+libcpmtd.lib(mutex.obj) : error LNK2001: símbolo externo não resolvido _free_dbg
+libcpmtd.lib(locale.obj) : error LNK2001: símbolo externo não resolvido _free_dbg
+libcpmtd.lib(StlLCMapStringA.obj) : error LNK2001: símbolo externo não resolvido _free_dbg
+Cryptobp.obj : error LNK2001: símbolo externo não resolvido _free_dbg
+libcpmtd.lib(locale0.obj) : error LNK2001: símbolo externo não resolvido _free_dbg
+libcpmtd.lib(cin.obj) : error LNK2001: símbolo externo não resolvido _free_dbg
+libcpmtd.lib(cout.obj) : error LNK2001: símbolo externo não resolvido _free_dbg
+libcpmtd.lib(xlocale.obj) : error LNK2001: símbolo externo não resolvido _malloc_dbg
+libcpmtd.lib(xwcsxfrm.obj) : error LNK2001: símbolo externo não resolvido _malloc_dbg
+libcpmtd.lib(StlCompareStringA.obj) : error LNK2001: símbolo externo não resolvido _malloc_dbg
+libcpmtd.lib(cerr.obj) : error LNK2001: símbolo externo não resolvido _malloc_dbg
+libcpmtd.lib(locale.obj) : error LNK2001: símbolo externo não resolvido _malloc_dbg
+libcpmtd.lib(StlLCMapStringA.obj) : error LNK2001: símbolo externo não resolvido _malloc_dbg
+libcpmtd.lib(wlocale.obj) : error LNK2001: símbolo externo não resolvido _malloc_dbg
+Cryptobp.obj : error LNK2001: símbolo externo não resolvido _malloc_dbg
+libcpmtd.lib(locale0.obj) : error LNK2001: símbolo externo não resolvido _malloc_dbg
+libcpmtd.lib(cin.obj) : error LNK2001: símbolo externo não resolvido _malloc_dbg
+libcpmtd.lib(cout.obj) : error LNK2001: símbolo externo não resolvido _malloc_dbg
+libcpmtd.lib(xlocale.obj) : error LNK2001: símbolo externo não resolvido _CrtDbgReport
+libcpmtd.lib(thread0.obj) : error LNK2001: símbolo externo não resolvido _CrtDbgReport
+libcpmtd.lib(locale.obj) : error LNK2001: símbolo externo não resolvido _CrtDbgReport
+libcpmtd.lib(xtime.obj) : error LNK2001: símbolo externo não resolvido _CrtDbgReport
+libcpmtd.lib(wlocale.obj) : error LNK2001: símbolo externo não resolvido _CrtDbgReport
+Cryptobp.obj : error LNK2001: símbolo externo não resolvido _CrtDbgReport
+libcpmtd.lib(cin.obj) : error LNK2001: símbolo externo não resolvido _CrtDbgReport
+libcpmtd.lib(cout.obj) : error LNK2001: símbolo externo não resolvido _CrtDbgReport
+libcpmtd.lib(cerr.obj) : error LNK2001: símbolo externo não resolvido _CrtDbgReport
+libcpmtd.lib(_tolower.obj) : error LNK2019: símbolo externo não resolvido, _wcsdup_dbg, referenciado na função _Getctype
+libcpmtd.lib(xstrcoll.obj) : error LNK2001: símbolo externo não resolvido _wcsdup_dbg
+libcpmtd.lib(locale.obj) : error LNK2019: símbolo externo não resolvido, _realloc_dbg, referenciado na função "private: static void __cdecl std::locale::_Locimp::_Locimp_Addfac(class std::locale::_Locimp *,class std::locale::facet *,unsigned __int64)" (?_Locimp_Addfac@_Locimp@locale@std@@CAXPEAV123@PEAVfacet@23@_K@Z)
+libcpmtd.lib(StlLCMapStringA.obj) : error LNK2019: símbolo externo não resolvido, _CrtDbgReportW, referenciado na função _freea_crt
+libcpmtd.lib(xmbtowc.obj) : error LNK2001: símbolo externo não resolvido _CrtDbgReportW
+libcpmtd.lib(StlCompareStringA.obj) : error LNK2001: símbolo externo não resolvido _CrtDbgReportW
+C:\Users\jgabr\Desktop\UMinho\Prog\Projects\C++\Cryptobp\x64\Debug\Cryptobp.exe : fatal error LNK1120: 7 externo não resolvidos
